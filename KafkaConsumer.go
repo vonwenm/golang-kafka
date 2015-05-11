@@ -28,7 +28,7 @@ func main() {
 	}
 
 	var (
-		wg       sync.WaitGroup
+		wg sync.WaitGroup
 		msgCount int
 	)
 
